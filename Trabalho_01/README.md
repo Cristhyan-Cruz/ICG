@@ -1,6 +1,6 @@
 # ICG
-## _Aluno_: Cristhyan de Araujo Cruz,_Matrícula_: 20180081817
-## _Aluna_: Nayara Xavier de Melo Alves, _Matrícula_: 2016159064
+### _Aluno_: Cristhyan de Araujo Cruz,_Matrícula_: 20180081817
+### _Aluna_: Nayara Xavier de Melo Alves, _Matrícula_: 2016159064
 
 A primeira atividade do curso, teve como objetivo verificar se o ambiente de desenvolvimento em OpenGL 3.3 está corretamente configurado nos computadores dos alunos e  Familizarizar os alunos com a estrutura de um programa OpenGL moderno.
 
