@@ -26,7 +26,7 @@ Foi aberto o terminal na página da disciplina e e compilado o código para gera
 
 gcc main.c -o main.exe -lglut -lGL -lGLU -lm
 
-![Print-1](https://github.com/Cristhyan-Cruz/ICG/blob/main/print00.png)
+![](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_01/print00.png)
 
 ### Passo 4:
 
@@ -34,7 +34,7 @@ executando o programa:
 
 ./main.exe
 
-![Print-2](https://github.com/Cristhyan-Cruz/ICG/blob/main/print01.png)
+![](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_01/print01.png)
 
 Conforme a figura acima, foi relatado um erro durante a execução do programa, sendo assim o programa foi compilado como mostra o print abaixo no Passo 5.
 
@@ -44,7 +44,7 @@ Foi usado o seguinte programa para a execução do programa: --
 
 MESA_GL_VERSION_OVERRIDE=3.3 MESA_GLSL_VERSION_OVERRIDE=330 ./main.exe
 
-![](https://github.com/Cristhyan-Cruz/ICG/blob/main/print02.png)
+![](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_01/print02.png)
 
 Sendo assim, o trabalho foi concluido com êxito!
 
