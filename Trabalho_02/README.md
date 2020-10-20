@@ -12,13 +12,19 @@ No segundo trabalho da disciplina foi implementado um algoritmos para a rasteriz
  
  Esta função Rasteriza um ponto na memória de vídeo recebendo como parâmetros as coordenadas (x,y) do pixel na tela e sua cor (RGBA).  
  
+ ![Print_01](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_02/print_01.png)
+ 
  ## Função DrawLine
  
  Esta função rasteriza uma linha na tela, recebendo como parâmetros as coordenadas dos seus vértices inicial e final (representados respectivamente pelas tuplas (x0,y0) e (x1,y1)) e ascores (no formato RGBA) de cada vértice. As cores dos  pixels ao longo da linha rasterizadadevem  ser obtidas  por meio de  interpolação linear  das  cores  dos  vértices.  O algoritmo  de rasterização de linha implementado foi o Algoritmo do Ponto Médio!
  
+ ![Print_02](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_02/print_02.png)
+ 
  ## Função DrawTriangle
  
 Esta função desenha as arestas de um triângulo na tela, recebendo comoparâmetros as posições dos três vértices (x0,y0), (x1,y1) e (x2,y2) bem como as cores (RGBA)de cada um dos vértices. As cores dos pixels das arestas do triângulo foram obtidas através da  interpolação linear das cores de seus vértices. 
+
+![Print_03](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_02/print_03.png)
 
 ## Discussões 
 
