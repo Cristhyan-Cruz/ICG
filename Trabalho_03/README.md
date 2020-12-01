@@ -53,8 +53,19 @@ Gerando o seguinte resultado Final:
 
 ![](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_03/livre3.png)
 
+### Referências
 
+[https://github.com/capagot/icg/tree/master/03_transformations](https://github.com/capagot/icg/tree/master/03_transformations)
 
+[https://glm.g-truc.net/0.9.9/index.html](https://glm.g-truc.net/0.9.9/index.html)
+
+[http://glew.sourceforge.net/](http://glew.sourceforge.net/)
+
+[https://glad.dav1d.de/](https://glad.dav1d.de/)
+
+[http://www.opengl-tutorial.org/](http://www.opengl-tutorial.org/)
+
+[http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)
 
 
 
