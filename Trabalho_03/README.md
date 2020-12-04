@@ -30,10 +30,14 @@ Foi modificada a Matriz _Projection_ e gerou os seguintes resultados:
 
 ### 4-Posição da Câmera
 
-Após todos os cálculos, chegamos na seguinte solução: 
+Fazendo os seguintes calculos: 
 
 ![](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_03/c%C3%A2mera.png)
+
+Chegamos na seguinte conclusão:
+
 ![](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_03/c%C3%A2mera1.png)
+![](https://github.com/Cristhyan-Cruz/ICG/blob/main/Trabalho_03/c%C3%A2mera2.png)
 
 ### 5-Transformações Livres
 
